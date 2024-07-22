@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186318079556",
+    "project_id": "nusantaradelight-8712b",
+    "storage_bucket": "nusantaradelight-8712b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186318079556:android:4ce5e17f9ce36221551e11",
+        "android_client_info": {
+          "package_name": "com.gama.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186318079556-qhohapn9htkqpto6hecnosovfggiidav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIlVutcyTlpCxJqYby-dCh23MMghgx2Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186318079556-qhohapn9htkqpto6hecnosovfggiidav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

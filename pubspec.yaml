@@ -1,0 +1,29 @@
+name: nusantara_delight
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.6
+  get: 4.6.6
+  image_picker: 1.1.2
+  http: ^0.13.6
+  flutterfire_cli: 1.0.0
+  firebase_core: 3.2.0
+  firebase_auth: 5.1.2
+  cloud_firestore: 5.1.0
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: 4.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets: 
+    - assets/
+  uses-material-design: true
+
